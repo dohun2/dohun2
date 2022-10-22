@@ -7,7 +7,7 @@
 
 ### 🛠Skills
 #### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,py" />
+<img src="https://skillicons.dev/icons?i=js,py" />
 
 #### Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=vue,react" />
